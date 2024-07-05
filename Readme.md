@@ -18,6 +18,6 @@ Source_4 : SAP teched Lectures in Github - https://github.com/orgs/SAP-samples/r
 Source_5 : https://github.com/SAP-samples/abap-platform-fiori-feature-showcase  
 |||||||||||||||||||  https://github.com/SAP-samples/fiori-elements-feature-showcase
 
-Source_6 : ('Sap.developers channel youtube')[https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg]
+Source_6 : Sap.developers channel youtube : - [https://www.youtube.com/channel/UCNfmelKDrvRmjYwSi9yvrMg]
 			
 		   
