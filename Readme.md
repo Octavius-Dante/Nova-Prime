@@ -16,6 +16,6 @@ Source_3 : Get to know from experts who are working in industry - organization s
 Source_4 : SAP teched Lectures in Github - https://github.com/orgs/SAP-samples/repositories?q=teched
 
 Source_5 : https://github.com/SAP-samples/abap-platform-fiori-feature-showcase  
-||||||||||||||||||||  https://github.com/SAP-samples/fiori-elements-feature-showcase
+|||||||||||||||||||  https://github.com/SAP-samples/fiori-elements-feature-showcase
 			
 		   
