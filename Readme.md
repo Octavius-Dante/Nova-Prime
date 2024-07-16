@@ -11,7 +11,7 @@
 
 Source_1 : https://github.com/SAP-samples/abap-cheat-sheets/blob/main/08_EML_ABAP_for_RAP.md
 
-Source_2 : Digging in satandard RAP application in S4 HANA system (for cds and annotation usages) how SAP is applied
+Source_2 : Digging in standard RAP application in S4 HANA system (for cds and annotation usages) how SAP applied this annotation how they used it -
 
 Source_3 : Get to know from experts who are working in industry - organization seniors 
 
